@@ -25,9 +25,10 @@ First, install the required backend(flask and Python) packages for this project 
       -pip install requirements.txt` or 
       -python install requiremnts.txt
 all dependencies added to your system
-### `pip install pyjwt` 
-     - package for adding token authentication to login
+### `Install Authentication Module`
+      -`pip install pyjwt
+package for adding token authentication to login
 
 ### `flask run`
 This backend will run on http://localhost:5000 port.\
-Open [http://localhost:5000](http://localhost:5000) to view the API'S in your browser.
+Open [http://localhost:5000](http://localhost:5000) to view the API in your browser.
