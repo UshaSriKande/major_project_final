@@ -17,7 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.\
-
+\
+\
 ### 2.Backend
 In another terminal run the following commands
 First, install the required backend(flask and Python) packages for this project \
