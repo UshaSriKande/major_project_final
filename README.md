@@ -1,5 +1,5 @@
 # Batch_4 Major Project Final
-## Available Scripts
+## Available Scripts to Run
 
 In the project directory, you can run:\
 You need to open two terminals on your system.\
