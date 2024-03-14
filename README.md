@@ -7,9 +7,10 @@ You need to open two terminals on your system.\
 1.In one terminal run commands for frontend.\
 First install al the required packages related to frontend by run this following command\
 ### `Install frontend dependencies`
-     -1.npm install \
+     -1.npm install 
 So that all required packages will downloaded into your system
-### `npm start`
+### `Start the frontend server`
+    -2.npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
