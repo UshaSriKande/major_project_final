@@ -4,8 +4,9 @@
 In the project directory, you can run:\
 You need to open two terminals on your system.
 \In one terminal run commands for frontend.\
-First install al the required packages related to frontend by run this following command 
-## `npm install`
+First install al the required packages related to frontend by run this following command
+### `npm install` 
+    - So that all required packages will downloaded into your system
 ### `npm start`
 
 Runs the app in the development mode.\
