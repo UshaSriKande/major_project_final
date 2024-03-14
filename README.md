@@ -26,7 +26,7 @@ First, install the required backend(flask and Python) packages for this project 
       -python install requiremnts.txt
 all dependencies added to your system
 ### `Install Authentication Module`
-      -`pip install pyjwt
+      -pip install pyjwt
 package for adding token authentication to login
 
 ### `flask run`
