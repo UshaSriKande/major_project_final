@@ -17,7 +17,12 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.\
 
 
-2.In another terminal run
+2.In another terminal run the following commands
+Fist install the required backend(flask and python) packages for this project\
+### `pip install requirements.txt` or `python install requiremnts.txt`
+     - all dependencies added to your system
+### `pip install pyjwt` 
+     - package for adding token authentication to login
 
 ### `flask run`
 This backend will run on http://localhost:5000 port.\
