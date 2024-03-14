@@ -14,5 +14,5 @@ You may also see any lint errors in the console.
 In another terminal run
 
 ### 2.`flask run`
-This backend will run on http://localhost:5000 port.
+This backend will run on http://localhost:5000 port.\
 Open [http://localhost:5000](http://localhost:5000) to view the API'S in your browser.
