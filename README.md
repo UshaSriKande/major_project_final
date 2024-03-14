@@ -3,7 +3,7 @@
 
 In the project directory, you can run:\
 You need to open two terminals on your system.\
-## 1. Frontend
+### 1. Frontend
 In one terminal run commands for frontend.\
 First, install all the required packages related to frontend by running the following command \
 ### `Install frontend dependencies`
@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.\
 
-## 2.Backend
+### 2.Backend
 In another terminal run the following commands
 First, install the required backend(flask and Python) packages for this project \
 ### `Install backend packages`
