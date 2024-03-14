@@ -3,9 +3,9 @@
 
 In the project directory, you can run:\
 You need to open two terminals on your system.\
-## 1.Frontend
+## 1. Frontend
 In one terminal run commands for frontend.\
-First install al the required packages related to frontend by run this following command\
+First, install all the required packages related to frontend by running the following command \
 ### `Install frontend dependencies`
      -1.npm install 
 So that all required packages will downloaded into your system
@@ -20,9 +20,11 @@ You may also see any lint errors in the console.\
 
 ## 2.Backend
 In another terminal run the following commands
-Fist install the required backend(flask and python) packages for this project\
-### `pip install requirements.txt` or `python install requiremnts.txt`
-     - all dependencies added to your system
+First, install the required backend(flask and Python) packages for this project \
+### `Install backend packages`
+      -pip install requirements.txt` or 
+      -python install requiremnts.txt
+all dependencies added to your system
 ### `pip install pyjwt` 
      - package for adding token authentication to login
 
