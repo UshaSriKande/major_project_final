@@ -1,4 +1,4 @@
-# major_project_final
+# Batch_4 Major Project Final
 ## Available Scripts
 
 In the project directory, you can run:\
