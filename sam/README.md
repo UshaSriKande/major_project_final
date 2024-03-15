@@ -6,11 +6,11 @@ Install Node.js and npm for creating React Project.
      https://nodejs.org/en/
 
 Install MySQL.
-     https://dev.mysql.com/downloads/installer/
+      https://dev.mysql.com/downloads/installer/
 Install Visual Studio Code.
-      https://code.visualstudio.com/download
+       https://code.visualstudio.com/download
 
-## Available Scripts
+## Available Scripts to Run
 
 In the project directory, you can run:
 
