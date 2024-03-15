@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Setup Development Environment:
+     Install Node.js and npm.
+     Install MongoDB.
+     Install Visual Studio Code.
+     Install Git for version control.
 ## Available Scripts
 
 In the project directory, you can run:
