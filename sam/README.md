@@ -20,10 +20,10 @@ In one terminal run commands for frontend.\
 First, install all the required packages related to the frontend by running the following command. \
 
 ### `Install frontend dependencies`
-     -1.npm install 
+     npm install 
 So that all required packages will downloaded into your system
 ### `Start the frontend server`
-    -2.npm start
+     npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -38,15 +38,15 @@ In another terminal run the following commands \
 First, install the required backend(flask and Python) packages for this project \
 
 ### `Install backend packages`
-      -pip install requirements.txt` or 
-      -python install requiremnts.txt
+       pip install requirements.txt` or 
+       python install requiremnts.txt
 all dependencies added to your system
 ### `Install Authentication Module`
-      -pip install pyjwt
+       pip install pyjwt
 package for adding token authentication to login
 
 ### `Start the backend server`
-         flask run
+       flask run
 This backend will run on http://localhost:5000 port.\
 Open [http://localhost:5000](http://localhost:5000) to view the API in your browser.
 
