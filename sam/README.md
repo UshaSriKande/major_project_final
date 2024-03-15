@@ -64,7 +64,8 @@ Colleges, Universities, or any Educational Institutes conduct projects or give A
 
 ### 2. Admin Module
 Admin has the privilege to perform the below tasks:
-1.Forming Students into Batches:
+
+1.Forming Students into Batches: \
 
    a.Custom Batch Formation
    b.Automate Batch Formation
