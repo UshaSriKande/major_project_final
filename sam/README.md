@@ -2,10 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Setup Development Environment:
-     Install Node.js and npm.
-     Install MongoDB.
-     Install Visual Studio Code.
-     Install Git for version control.
+Install Node.js and npm for creating React Project.
+     https://nodejs.org/en/
+
+Install MySQL.
+     https://dev.mysql.com/downloads/installer/
+Install Visual Studio Code.
+      https://code.visualstudio.com/download
+
 ## Available Scripts
 
 In the project directory, you can run:
