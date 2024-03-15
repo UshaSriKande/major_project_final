@@ -49,3 +49,21 @@ package for adding token authentication to login
          flask run
 This backend will run on http://localhost:5000 port.\
 Open [http://localhost:5000](http://localhost:5000) to view the API in your browser.
+
+
+
+
+Colleges, Universities, or any Educational Institutes conduct projects or give Assignments for a better understanding of the practical approach towards the subject in the real world. The project involves a lot of tasks like abstract or synopsis evaluation, thesis correction, and updating the proposed module with your guides.
+
+
+
+## PROPOSED WORK
+
+
+1. Registration and Login Module
+
+2. Admin Module
+3.Student Module
+4.Faculty Module
+
+This Project will help in building a collaborative system for students as well as professors for performing assignment/project-related tasks. This system has overcome all the traditional processes of manually submitting project abstracts, synopsis, or any other Documents. Also, it provides a platform where Instructors can allot tasks to their respective group and students can choose his group as well as can choice his project guide. Open project-related tasks can be allotted by the project guide and other faculties can give reviews over it if they wish to. Students can directly upload their proposed work and the documentation on this system for evaluation of the work. At the end of the project submission the top performing students will download the certificate for proof of work
