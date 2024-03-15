@@ -67,8 +67,9 @@ Admin has the privilege to perform the below tasks:
 
 1.Forming Students into Batches: \
 
-   a.Custom Batch Formation
-   b.Automate Batch Formation
+     a.Custom Batch Formation
+   
+     b.Automate Batch Formation
 
 2.Guide Mapping
 
