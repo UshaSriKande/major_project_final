@@ -60,16 +60,18 @@ Colleges, Universities, or any Educational Institutes conduct projects or give A
 ## PROPOSED WORK
 
 
-1. Registration and Login Module
+### 1. Registration and Login Module
 
 ### 2. Admin Module
 Admin has the privilege to perform the below tasks:
 
-1.Forming Students into Batches: \
+1.Forming Students into Batches: 
+
 
      a.Custom Batch Formation
    
      b.Automate Batch Formation
+
 
 2.Guide Mapping
 
@@ -97,5 +99,6 @@ Faculty has the access to perform the below tasks:
 2.View Phases
 
 3.Evaluate and Assign marks to the students of their respective batch
+
 
 This Project will help in building a collaborative system for students as well as professors for performing assignment/project-related tasks. This system has overcome all the traditional processes of manually submitting project abstracts, synopsis, or any other Documents. Admin has the facility to automatically form batches and allot guides to students if they don't want specific .Also, it provides a platform where Instructors can allot tasks to their respective group and students can choose his groups as well as can choice his project guide. Open project-related tasks can be allotted by the project guide and other faculties can give reviews over it if they wish to. Students can directly upload their proposed work and the documentation on this system for evaluation of the work. At the end of the project submission the top performing students will download the certificate for proof of work.
